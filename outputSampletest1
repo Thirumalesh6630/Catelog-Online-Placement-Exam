@@ -1,0 +1,9 @@
+Loaded JSON content: {"n": 3, "k": 2, "0": {"base": "10", "value": "15"}, "1": {"base": "16", "value": "1A"}, "2": {"base": "8", "value": "20"}}
+Decoded Point: (0, 15)
+Decoded Point: (1, 26)
+Decoded Point: (2, 16)
+Coordinates: [Point@<hash1>, Point@<hash2>, Point@<hash3>]
+i: 0, l_i: <computed_value>, contribution: <contribution_value>, c: <c_value>
+i: 1, l_i: <computed_value>, contribution: <contribution_value>, c: <c_value>
+i: 2, l_i: <computed_value>, contribution: <contribution_value>, c: <c_value>
+The constant term c is: <final_c_value>
