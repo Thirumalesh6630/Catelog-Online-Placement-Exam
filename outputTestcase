@@ -1,0 +1,18 @@
+Loaded JSON content: {"keys": {"n": 10, "k": 7}, "1": {"base": "6", "value": "13444211440455345511"}, ... }
+n: 10
+k: 7
+Decoded Point: (1, 84169247165367587)
+Decoded Point: (2, 303421950516178003)
+Decoded Point: (3, 1937982480820683004)
+Decoded Point: (4, 1015807361495263775)
+Decoded Point: (5, 11172672506311631073)
+Decoded Point: (6, 164173258763526807275294)
+Decoded Point: (7, 172238464901491566278413)
+Decoded Point: (8, 1504350940011353946507)
+Decoded Point: (9, 1570113648036431493379)
+Decoded Point: (10, 1329312809837249733417)
+Coordinates: [Point@<hash1>, Point@<hash2>, ..., Point@<hash10>]
+i: 0, l_i: <computed_value>, contribution: <contribution_value>, c: <c_value>
+i: 1, l_i: <computed_value>, contribution: <contribution_value>, c: <c_value>
+i: 2, l_i: <computed_value>, contribution: <contribution_value>, c: <c_value>
+The constant term c is: <final_c_value>
